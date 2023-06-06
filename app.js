@@ -28,11 +28,11 @@ const flowOpcion11 = addKeyword(['opcion11']).addAnswer(['📝Esta es la opcion 
 const flowOpcion1 = addKeyword(['1']).addAnswer(
     ['📌Esta es la opcion 1']
 )
-.addAnswer('Imagen', {
-  media: 'https://educacion30.b-cdn.net/wp-content/uploads/2019/06/homer.gif',
+.addAnswer('Descripcion imagen', {
+  media: 'https://bot-whatsapp.netlify.app/build/q-ca382224.png',
 })
 .addAnswer(
-    ['Descripcion de la imagen']
+    ['mensaje despues de la imagen']
 )
 .addAnswer([
     '📆 *1* Opcion 11',
@@ -49,7 +49,7 @@ const flowOpcion1 = addKeyword(['1']).addAnswer(
             return gotoFlow(flowAsesor)
         }
         if(ctx.body != 1 & ctx.body != 2 & ctx.body != 3){
-            return fallBack('❗RESPUESTA INCORRECTA❗ \n ✅ *1* Volver a menú principal \n 👤 *2* Comunicarse con un asesor \n 📆 *1* Opcion 1.1')
+            return fallBack('❗RESPUESTA INCORRECTA❗ \n 📆 *1* Opcion 1.1 \n ✅ *2* Volver a menú principal \n 👤 *3* Comunicarse con un asesor')
         }
     }
 )
