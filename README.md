@@ -12,5 +12,5 @@ INSTALACION
 
 6 reemplazar el archivo app.js de la carpeta creada por el app.js de este repo
 
-7 por ultimo ejecutar npm start y escanear el QR desde whatsapp para que se ejecute el bot 
+7 por ultimo ejecutar npm start y escanear el QR desde whatsapp para que se ejecute el bot.
 
