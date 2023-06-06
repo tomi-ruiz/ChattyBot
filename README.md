@@ -1,3 +1,7 @@
+https://bot-whatsapp.netlify.app/build/q-ca382224.png
+
+
+
 INSTALACION 
 
 1 Crear una carpeta y abrirla con visual studio code
