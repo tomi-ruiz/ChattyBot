@@ -1,6 +1,3 @@
-https://bot-whatsapp.netlify.app/build/q-ca382224.png
-
-
 
 INSTALACION 
 
