@@ -16,4 +16,6 @@ INSTALACION
 7 por ultimo ejecutar npm start y escanear el QR desde whatsapp para que se ejecute el bot.
 
 TEST https://youtu.be/Du8o_lGV0-k
+
+
 INSTALACION VIDEO https://www.youtube.com/watch?v=1u2fSDPSLI0
